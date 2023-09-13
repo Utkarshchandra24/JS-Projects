@@ -1,0 +1,24 @@
+.btn-primary {
+    background-color: lightblue;
+}
+
+.btn-danger {
+    background-color: red;
+}   
+
+.btn-warning {
+    background-color: yellow;
+}
+
+.btn-success {
+    background-color: greenyellow;
+}
+
+.flex-box-pick-color {
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid black;
+    padding: 10px;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
